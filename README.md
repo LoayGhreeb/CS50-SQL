@@ -31,6 +31,6 @@ This repository contains my solutions for the problem sets in the CS50-SQL cours
       
 - [x] **Week 6 : [Scaling](https://cs50.harvard.edu/sql/2023/psets/6/)**
   - [x] [Happy to Connect](/6-%20Scaling/Happy%20to%20Connect)
-  - [x] [Don't Panic!](/6-%20Scaling/Don't%20Panic!20with20Java)
+  - [x] [Don't Panic!](/6-%20Scaling/Don't%20Panic!%20with%20Java)
 
 - [ ] **Week 7 : [Final Project](https://cs50.harvard.edu/sql/2023/project/)**
