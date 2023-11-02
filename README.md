@@ -26,8 +26,8 @@ This repository contains my solutions for the problem sets in the CS50-SQL cours
   - [x] [The Private Eye](/4-%20Viewing/The%20Private%20Eye)
   - [x] [Bed and Breakfast](/4-%20Viewing/Bed%20and%20Breakfast)
 
-- [ ] **Week 5 : [Optimizing](https://cs50.harvard.edu/sql/2023/psets/5/)**
-  - [ ] [your.harvard](/5-%20Optimizing/your.harvard)
+- [x] **Week 5 : [Optimizing](https://cs50.harvard.edu/sql/2023/psets/5/)**
+  - [x] [your.harvard](/5-%20Optimizing/your.harvard)
       
 - [x] **Week 6 : [Scaling](https://cs50.harvard.edu/sql/2023/psets/6/)**
   - [x] [Happy to Connect](/6-%20Scaling/Happy%20to%20Connect)
