@@ -6,6 +6,5 @@ CREATE VIEW "most_populated" AS
     SUM("male") AS "male",
     SUM("female") AS "female"
     FROM "census"
-    WHERE "locality" LIKE '%Nepal%'
     GROUP BY "district"
     ORDER BY "population" DESC;
